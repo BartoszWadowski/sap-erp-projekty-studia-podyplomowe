@@ -12,4 +12,3 @@ Pełny proces zakupowy **od zamówienia do płatności** na przykładzie Huty:
 - **FI**: FS00, FB50, FB60/MIRO, FBL1N, F-53.  
 
 **Plik z pełną dokumentacją + screenshoty krok po kroku:**  
-[📄 Praca dyplomowa (PDF)](Finalna-wersja-pracy-Bartosz-Wadowski-Natalia-Kotarska-Kamila-Ogrodnik.pdf)
