@@ -4,7 +4,7 @@ Praca dyplomowa SAP ERP – proces zakupowy od zamówienia do płatności w MM/F
 
 **Studia podyplomowe „Zintegrowany system informatyczny SAP ERP”**  
 **Uniwersytet WSB Merito Wrocław**  
-**Autorzy: Bartosz Wadowski, Natalia Kotarska, Kamila Ogrodnik**  
+**Autor Bartosz Wadowski
 
 ## Opis projektu
 Pełny proces zakupowy **od zamówienia do płatności** na przykładzie Huty:  
